@@ -4353,7 +4353,5 @@ def run():
 
 # base = baseplate()
 # export_file(shape=base, fname=path.join(save_path, config_name + r"_plate"))
-# if __name__ == '__main__':
-#     run()
-
-run()
+if __name__ == '__main__':
+    run()
